@@ -1,5 +1,6 @@
 # Secure and Trustworthy Edge Computing Systems
 Coding Assignments for the Secure and Trustworthy Edge Computing Systems class at UCLA in W24 Quarter
+
 [Class Website](https://ssysarch.github.io/ECE_209AS/W24/index.html)
 
 ## CA1 - 
